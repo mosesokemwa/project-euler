@@ -1,0 +1,6 @@
+*.hi
+*.o
+*.prof
+EulerProblem
+list.txt
+
