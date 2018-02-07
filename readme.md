@@ -2,10 +2,8 @@
 
 My attempt at learning Functional Programming
 
-### Problem 1
-Add all the natural numbers below 1000 that are multiples of 3 or 5.
+[Project Euler](https://projecteuler.net/) contains logical and mathematical
+challenges that can be solved using a programming language of your choice.
 
-### Problem 2
-Even Fibonacci numbers
-
-
+It exists to encourage, challenge, and develop the skills and enjoyment of
+anyone with an interest in the fascinating world of mathematics.
